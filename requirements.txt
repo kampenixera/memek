@@ -1,0 +1,24 @@
+# Basic Requirements
+Flask==2.0.1
+requests==2.26.0
+python-dotenv==0.19.0
+
+# WebSocket Support
+websockets==10.0
+
+# Process Management
+psutil==5.8.0
+
+# File Management
+pathlib==1.0.1
+
+# JSON Processing
+jsonschema==3.2.0
+
+# For running async operations
+asyncio==3.4.3
+aiohttp==3.8.1
+
+# Security
+bcrypt==3.2.0
+PyJWT==2.1.0
